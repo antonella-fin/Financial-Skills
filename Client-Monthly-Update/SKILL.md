@@ -1,3 +1,4 @@
+---
 name: client-monthly-update
 description: >
   Generate a concise monthly financial and business update for a Finvisor
@@ -423,3 +424,4 @@ Use its conclusions to build the monthly executive update.
 - Flag missing or conflicting data.
 - Distinguish actual results from forecasts and assumptions.
 - Keep the final update concise.
+---
