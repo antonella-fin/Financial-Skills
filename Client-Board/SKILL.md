@@ -1,4 +1,3 @@
-```markdown
 ---
 name: board-reporting
 description: >
@@ -368,4 +367,4 @@ structure and update only the required sections.
 - Flag missing or conflicting data.
 - Preserve existing board deck structure unless asked to change it.
 - Validate numbers before producing final commentary.
-```
+
